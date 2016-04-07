@@ -589,7 +589,6 @@ Source: http://www.osram.convergy.de/</description>
 <pinref part="U$2" gate="G$1" pin="G$4"/>
 <wire x1="63.5" y1="15.24" x2="63.5" y2="0" width="0.1524" layer="91"/>
 <wire x1="63.5" y1="0" x2="73.66" y2="0" width="0.1524" layer="91"/>
-<junction x="63.5" y="0"/>
 </segment>
 </net>
 <net name="N$3" class="0">
@@ -613,8 +612,7 @@ Source: http://www.osram.convergy.de/</description>
 </sheet>
 </sheets>
 <errors>
-<approved hash="108,1,43.18,15.24,N$5,,,,,"/>
-<approved hash="113,1,53.34,9.13553,U$2,,,,,"/>
+<approved hash="108,1,50.8,7.62,N$4,,,,,"/>
 </errors>
 </schematic>
 </drawing>

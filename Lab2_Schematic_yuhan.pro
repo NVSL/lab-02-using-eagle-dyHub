@@ -2,14 +2,14 @@ EAGLE AutoRouter Statistics:
 
 Job           : /Users/yuhan/Documents/UCSD/CSE190/lab-02-using-eagle-dyHub/Lab2_Schematic_yuhan.brd
 
-Start at      : 21:30:47 (4/5/16)
-End at        : 21:30:51 (4/5/16)
+Start at      : 00:00:58 (4/7/16)
+End at        : 00:01:01 (4/7/16)
 Elapsed time  : 00:00:01
 
 Signals       :     4   RoutingGrid: 9 mil  Layers: 2
 Connections   :     6   predefined:  0 ( 0 Vias )
 
-Router memory :   150748
+Router memory :   76736
 
 Passname          : TopRouter     Route Optimize1 Optimize2 Optimize3 Optimize4
 
